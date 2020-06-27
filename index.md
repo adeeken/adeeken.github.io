@@ -9,4 +9,8 @@ Ich hofffe das reicht soweit auch aus, um die Testanforderungen zu erfüllen.
 * mag wieder geschlossen zu werden
 * denkt über Referenzen nach
 
+## Jemand sagte:
+> Do You Have Anything In This Shop As Beautiful As She Is?
+> It Must Be Difficult To Let Go Of Something So Beautiful.
+
 
