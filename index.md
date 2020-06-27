@@ -13,4 +13,5 @@ Ich hofffe das reicht soweit auch aus, um die Testanforderungen zu erfüllen.
 > Do You Have Anything In This Shop As Beautiful As She Is?
 > It Must Be Difficult To Let Go Of Something So Beautiful.
 
+<img src="https://s3.xopic.de/openhpi-public/courses/7cZWaATaTjbQ4phWCr6tg3/rtfiles/4q6wOLeLWYMu5syPwPlVPR/85002346_267b8e5c6c_o.jpg"/>
 
